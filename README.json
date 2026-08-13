@@ -1,0 +1,336 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-redux",
+          "description": "A Context based library for integrating React with Redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:12:37Z",
+            "owner": "reduxjs",
+            "repo": "react-redux",
+            "stars": 23455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unstated",
+          "description": "A tiny dependency that provides a handy wrapper around the Context API for dependency injection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-11T02:47:52Z",
+            "owner": "jamiebuilds",
+            "repo": "unstated",
+            "stars": 7722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "constate",
+          "description": "React Context + State = constate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:07:34Z",
+            "owner": "diegohaz",
+            "repo": "constate",
+            "stars": 4004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-waterfall",
+          "description": "React store built on top of the new context API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-24T09:58:01Z",
+            "owner": "didierfranc",
+            "repo": "react-waterfall",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-broadcast",
+          "description": "Reliably communicate state changes to deeply nested React elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-20T03:30:26Z",
+            "owner": "ReactTraining",
+            "repo": "react-broadcast",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-create-context",
+          "description": "Polyfill for the proposed React context API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-07T04:07:59Z",
+            "owner": "jamiebuilds",
+            "repo": "create-react-context",
+            "stars": 687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-contextual",
+          "description": "Tiny helper around React's new context API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-12T18:11:23Z",
+            "owner": "drcmda",
+            "repo": "react-contextual",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-composer",
+          "description": "Prevents deeply nested code when consuming multiple contexts at the same time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-28T19:21:52Z",
+            "owner": "jamesplease",
+            "repo": "react-composer",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dakpan",
+          "description": "A small React state management library using the new React context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-06T08:01:09Z",
+            "owner": "houfio",
+            "repo": "dakpan",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "with-context",
+          "description": "Decorator for new React Context API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-28T10:54:37Z",
+            "owner": "SunHuawei",
+            "repo": "with-context",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-connect-context",
+          "description": "Redux-style connector that maps context-based objects onto a component's props.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-01-11T23:45:04Z",
+            "owner": "contiamo",
+            "repo": "react-connect-context",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-translations-provider",
+          "description": "Setup and access a global set of translations and current locale via a context provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-14T16:39:26Z",
+            "owner": "hyogman",
+            "repo": "react-translations-provider",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-combine-reducer",
+          "description": "Function that merge context providers in ease. Supports constate and unstated-next in a simple way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T05:51:47Z",
+            "owner": "hlhr202",
+            "repo": "React-Combine-Provider",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-providers",
+          "description": "A small library that creates a centralized place to store (like Redux store) your context components and HOC to use it. Automatically resolves dependencies between your context components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T07:04:25Z",
+            "owner": "xnimorz",
+            "repo": "react-providers",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-context-global-state",
+          "description": "A wrapper library around the Context API to define global state without explicitly using components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T21:38:23Z",
+            "owner": "dai-shi",
+            "repo": "react-context-global-state",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-zap",
+          "description": "Zap props from one React component to another, using React new context API and your existing higher-order components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-07-03T11:29:49Z",
+            "owner": "troch",
+            "repo": "react-zap",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-motive",
+          "description": "Small wrapper around the React Context API with actions/dispatch style state management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T11:12:27Z",
+            "owner": "colevoss",
+            "repo": "react-motive",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-zedux",
+          "description": "Create consumable contexts from observables, including Zedux/Redux stores.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-13T23:22:42Z",
+            "owner": "bowheart",
+            "repo": "react-zedux",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-storage-context",
+          "description": "Handy util for getting/setting local storage and session storage built on the Context API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-06-02T17:57:06Z",
+            "owner": "giannif",
+            "repo": "react-storage-context",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-context-connector",
+          "description": "React HOC to the new Context API to keep the use as simple as React-Redux connect HOC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-10T02:55:53Z",
+            "owner": "BrOrlandi",
+            "repo": "react-context-connector",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-loadable-context",
+          "description": "Small wrapper around the React Context API to asynchronously load and inject objects into the context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-23T01:44:57Z",
+            "owner": "crubier",
+            "repo": "react-loadable-context",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "folio",
+          "description": "A dynamic form manage form global state and CSS grid using context.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-19T19:04:58Z",
+            "owner": "jalal246",
+            "repo": "folio",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, diegohaz has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:33.508Z",
+    "original_repository": "diegohaz/awesome-react-context",
+    "original_repository_sha": "679fda05905f779a1815a179cdfe70f695fce896",
+    "enhanced_repository": "enhansome/enhansome-react-context",
+    "enhanced_repository_description": null,
+    "title": "Awesome React Context with stars"
+  }
+}

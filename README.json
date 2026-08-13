@@ -28,7 +28,7 @@
             "last_commit": "2023-09-11T02:47:52Z",
             "owner": "jamiebuilds",
             "repo": "unstated",
-            "stars": 7722
+            "stars": 7721
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-12T19:07:34Z",
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4004
+            "stars": 4003
           }
         },
         {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:33.508Z",
+    "last_updated": "2026-08-13T13:45:09.922Z",
     "original_repository": "diegohaz/awesome-react-context",
     "original_repository_sha": "679fda05905f779a1815a179cdfe70f695fce896",
     "enhanced_repository": "enhansome/enhansome-react-context",

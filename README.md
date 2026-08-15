@@ -33,19 +33,19 @@
 
 ## Libraries
 
-* [**react-redux**](https://github.com/reduxjs/react-redux) ⭐ 23,456 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-12 - A Context based library for integrating React with Redux.
+* [**react-redux**](https://github.com/reduxjs/react-redux) ⭐ 23,455 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-12 - A Context based library for integrating React with Redux.
 * [**unstated**](https://github.com/jamiebuilds/unstated) ⭐ 7,721 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11 - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
-* [**constate**](https://github.com/diegohaz/constate) ⭐ 4,003 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - React Context + State = constate.
+* [**constate**](https://github.com/diegohaz/constate) ⭐ 4,003 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-14 - React Context + State = constate.
 * [**react-waterfall**](https://github.com/didierfranc/react-waterfall) ⭐ 1,319 | 🐛 57 | 🌐 JavaScript | 📅 2023-11-24 - React store built on top of the new context API.
 * [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) ⭐ 1,314 | 🐛 3 | 🌐 JavaScript | 📅 2022-11-20 - Reliably communicate state changes to deeply nested React elements.
-* [**react-create-context**](https://github.com/jamiebuilds/create-react-context) ⭐ 687 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-07 - Polyfill for the proposed React context API.
+* [**react-create-context**](https://github.com/jamiebuilds/create-react-context) ⭐ 686 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-07 - Polyfill for the proposed React context API.
 * [**react-contextual**](https://github.com/drcmda/react-contextual) ⭐ 638 | 🐛 13 | 🌐 JavaScript | 📅 2018-09-12 - Tiny helper around React's new context API.
 * [**react-composer**](https://github.com/jamesplease/react-composer) ⭐ 608 | 🐛 3 | 🌐 JavaScript | 📅 2022-04-28 - Prevents deeply nested code when consuming multiple contexts at the same time.
 * [**dakpan**](https://github.com/houfio/dakpan) ⭐ 69 | 🐛 0 | 🌐 TypeScript | 📅 2022-06-06 - A small React state management library using the new React context.
 * [**with-context**](https://github.com/SunHuawei/with-context) ⭐ 51 | 🐛 3 | 🌐 JavaScript | 📅 2018-02-28 - Decorator for new React Context API.
 * [**react-connect-context**](https://github.com/Contiamo/react-connect-context) ⚠️ Archived - Redux-style connector that maps context-based objects onto a component's props.
 * [**react-translations-provider**](https://github.com/hyogman/react-translations-provider) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-14 - Setup and access a global set of translations and current locale via a context provider.
-* [**react-combine-reducer**](https://github.com/hlhr202/React-Combine-Provider) ⭐ 32 | 🐛 27 | 🌐 TypeScript | 📅 2023-01-07 - Function that merge context providers in ease. Supports [**constate**](https://github.com/diegohaz/constate) ⭐ 4,003 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 and [**unstated-next**](https://github.com/jamiebuilds/unstated-next) ⭐ 4,186 | 🐛 51 | 🌐 TypeScript | 📅 2022-02-10 in a simple way.
+* [**react-combine-reducer**](https://github.com/hlhr202/React-Combine-Provider) ⭐ 32 | 🐛 27 | 🌐 TypeScript | 📅 2023-01-07 - Function that merge context providers in ease. Supports [**constate**](https://github.com/diegohaz/constate) ⭐ 4,003 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-14 and [**unstated-next**](https://github.com/jamiebuilds/unstated-next) ⭐ 4,186 | 🐛 51 | 🌐 TypeScript | 📅 2022-02-10 in a simple way.
 * [**react-providers**](https://github.com/xnimorz/react-providers) ⭐ 23 | 🐛 37 | 🌐 TypeScript | 📅 2023-01-07 - A small library that creates a centralized place to store (like Redux store) your context components and HOC to use it. Automatically resolves dependencies between your context components.
 * [**react-context-global-state**](https://github.com/dai-shi/react-context-global-state) ⭐ 23 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-04 - A wrapper library around the Context API to define global state without explicitly using `class` components.
 * [**react-zap**](https://github.com/troch/react-zap) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2018-07-03 - Zap props from one React component to another, using React new context API and your existing higher-order components.
@@ -69,4 +69,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

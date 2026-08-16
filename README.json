@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:12:37Z",
+            "last_commit": "2026-08-16T04:07:18Z",
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23455
+            "stars": 23453
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:32:27Z",
+            "last_commit": "2026-08-15T21:00:18Z",
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4003
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T12:57:26.482Z",
+    "last_updated": "2026-08-16T12:58:58.411Z",
     "original_repository": "diegohaz/awesome-react-context",
     "original_repository_sha": "679fda05905f779a1815a179cdfe70f695fce896",
     "enhanced_repository": "enhansome/enhansome-react-context",

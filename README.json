@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T21:26:41Z",
+            "last_commit": "2026-08-17T21:52:55Z",
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4003
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:04:02.403Z",
+    "last_updated": "2026-08-18T13:06:13.295Z",
     "original_repository": "diegohaz/awesome-react-context",
     "original_repository_sha": "679fda05905f779a1815a179cdfe70f695fce896",
     "enhanced_repository": "enhansome/enhansome-react-context",

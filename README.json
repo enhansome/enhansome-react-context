@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38934449,
             "language": "TypeScript",
             "last_commit": "2026-08-17T02:53:51Z",
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23451
+            "stars": 23450
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119693982,
             "language": "JavaScript",
             "last_commit": "2023-09-11T02:47:52Z",
             "owner": "jamiebuilds",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127461319,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:52:55Z",
+            "last_commit": "2026-08-18T22:06:31Z",
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4003
+            "stars": 4004
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122267528,
             "language": "JavaScript",
             "last_commit": "2023-11-24T09:58:01Z",
             "owner": "didierfranc",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69530831,
             "language": "JavaScript",
             "last_commit": "2022-11-20T03:30:26Z",
             "owner": "ReactTraining",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113528385,
             "language": "JavaScript",
             "last_commit": "2021-06-07T04:07:59Z",
             "owner": "jamiebuilds",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119603782,
             "language": "JavaScript",
             "last_commit": "2018-09-12T18:11:23Z",
             "owner": "drcmda",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118290693,
             "language": "JavaScript",
             "last_commit": "2022-04-28T19:21:52Z",
             "owner": "jamesplease",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136435784,
             "language": "TypeScript",
             "last_commit": "2022-06-06T08:01:09Z",
             "owner": "houfio",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123118625,
             "language": "JavaScript",
             "last_commit": "2018-02-28T10:54:37Z",
             "owner": "SunHuawei",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 122506757,
             "language": "TypeScript",
             "last_commit": "2019-01-11T23:45:04Z",
             "owner": "contiamo",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122117669,
             "language": "JavaScript",
             "last_commit": "2018-03-14T16:39:26Z",
             "owner": "hyogman",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189013478,
             "language": "TypeScript",
             "last_commit": "2023-01-07T05:51:47Z",
             "owner": "hlhr202",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143775152,
             "language": "TypeScript",
             "last_commit": "2023-01-07T07:04:25Z",
             "owner": "xnimorz",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151574655,
             "language": "JavaScript",
             "last_commit": "2023-01-04T21:38:23Z",
             "owner": "dai-shi",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135201377,
             "language": "TypeScript",
             "last_commit": "2018-07-03T11:29:49Z",
             "owner": "troch",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128090583,
             "language": "JavaScript",
             "last_commit": "2022-12-07T11:12:27Z",
             "owner": "colevoss",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118282874,
             "language": "JavaScript",
             "last_commit": "2023-04-13T23:22:42Z",
             "owner": "bowheart",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 131729684,
             "language": "JavaScript",
             "last_commit": "2018-06-02T17:57:06Z",
             "owner": "giannif",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137672712,
             "language": "JavaScript",
             "last_commit": "2018-07-10T02:55:53Z",
             "owner": "BrOrlandi",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134152432,
             "language": "JavaScript",
             "last_commit": "2018-06-23T01:44:57Z",
             "owner": "crubier",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 161352666,
             "language": "JavaScript",
             "last_commit": "2018-12-19T19:04:58Z",
             "owner": "jalal246",
@@ -313,21 +335,12 @@
         }
       ],
       "title": "Libraries"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, diegohaz has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:06:13.295Z",
+    "last_updated": "2026-08-19T12:50:49.836Z",
     "original_repository": "diegohaz/awesome-react-context",
+    "original_repository_id": 122140699,
     "original_repository_sha": "679fda05905f779a1815a179cdfe70f695fce896",
     "enhanced_repository": "enhansome/enhansome-react-context",
     "enhanced_repository_description": null,

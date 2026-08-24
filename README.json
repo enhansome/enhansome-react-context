@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T03:34:12Z",
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23447
+            "stars": 23448
           }
         },
         {
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:11:29.334Z",
+    "last_updated": "2026-08-24T14:16:19.067Z",
     "original_repository": "diegohaz/awesome-react-context",
     "original_repository_id": 122140699,
     "original_repository_sha": "679fda05905f779a1815a179cdfe70f695fce896",

@@ -42,7 +42,7 @@
             "archived": false,
             "id": 127461319,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:15:08Z",
+            "last_commit": "2026-08-27T15:57:04Z",
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4005
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:27.473Z",
+    "last_updated": "2026-08-27T22:14:17.621Z",
     "original_repository_info": {
       "archived": false,
       "id": 122140699,

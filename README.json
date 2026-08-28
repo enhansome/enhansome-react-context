@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T04:06:50Z",
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23447
-          }
+            "stars": 23448
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "jamiebuilds",
             "repo": "unstated",
             "stars": 7722
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4005
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "didierfranc",
             "repo": "react-waterfall",
             "stars": 1318
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ReactTraining",
             "repo": "react-broadcast",
             "stars": 1314
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "jamiebuilds",
             "repo": "create-react-context",
             "stars": 686
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "drcmda",
             "repo": "react-contextual",
             "stars": 638
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "jamesplease",
             "repo": "react-composer",
             "stars": 607
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "houfio",
             "repo": "dakpan",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "SunHuawei",
             "repo": "with-context",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "contiamo",
             "repo": "react-connect-context",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "hyogman",
             "repo": "react-translations-provider",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "hlhr202",
             "repo": "React-Combine-Provider",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "xnimorz",
             "repo": "react-providers",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "dai-shi",
             "repo": "react-context-global-state",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "troch",
             "repo": "react-zap",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "colevoss",
             "repo": "react-motive",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "bowheart",
             "repo": "react-zedux",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "giannif",
             "repo": "react-storage-context",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "BrOrlandi",
             "repo": "react-context-connector",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "crubier",
             "repo": "react-loadable-context",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         },
         {
           "node_type": "item",
@@ -331,14 +352,15 @@
             "owner": "jalal246",
             "repo": "folio",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:16:46.185Z"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:14:17.621Z",
+    "last_updated": "2026-08-28T22:16:46.185Z",
     "original_repository_info": {
       "archived": false,
       "id": 122140699,

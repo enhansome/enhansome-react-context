@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official React bindings for Redux",
+            "homepage": "https://react-redux.js.org",
             "id": 38934449,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:06:50Z",
+            "open_issues": 58,
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23448
+            "stars": 23448,
+            "topics": [
+              "react",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -26,12 +34,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State so simple, it goes without saying",
+            "homepage": null,
             "id": 119693982,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-11T02:47:52Z",
+            "open_issues": 17,
             "owner": "jamiebuilds",
             "repo": "unstated",
-            "stars": 7722
+            "stars": 7722,
+            "topics": [
+              "management",
+              "react",
+              "state"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -42,12 +59,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Context + State",
+            "homepage": "https://github.com/diegohaz/constate",
             "id": 127461319,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:57:04Z",
+            "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4005
+            "stars": 4005,
+            "topics": [
+              "constate",
+              "hooks",
+              "react",
+              "react-context",
+              "react-hooks",
+              "react-state",
+              "reactjs",
+              "reakit",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -58,12 +90,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React store built on top of the new context API",
+            "homepage": null,
             "id": 122267528,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-24T09:58:01Z",
+            "open_issues": 57,
             "owner": "didierfranc",
             "repo": "react-waterfall",
-            "stars": 1318
+            "stars": 1318,
+            "topics": [
+              "context",
+              "flux",
+              "javascript",
+              "reactjs",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -74,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reliably communicate state changes to deeply nested React elements",
+            "homepage": null,
             "id": 69530831,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-20T03:30:26Z",
+            "open_issues": 3,
             "owner": "ReactTraining",
             "repo": "react-broadcast",
-            "stars": 1314
+            "stars": 1314,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -90,12 +138,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polyfill for the proposed React context API",
+            "homepage": null,
             "id": 113528385,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-07T04:07:59Z",
+            "open_issues": 9,
             "owner": "jamiebuilds",
             "repo": "create-react-context",
-            "stars": 686
+            "stars": 686,
+            "topics": [
+              "context",
+              "contexttypes",
+              "polyfill",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -106,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 react-contextual is a small (less than 1KB) helper around React 16s new context api",
+            "homepage": null,
             "id": 119603782,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-12T18:11:23Z",
+            "open_issues": 13,
             "owner": "drcmda",
             "repo": "react-contextual",
-            "stars": 638
+            "stars": 638,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -122,12 +185,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compose render prop components",
+            "homepage": null,
             "id": 118290693,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-28T19:21:52Z",
+            "open_issues": 3,
             "owner": "jamesplease",
             "repo": "react-composer",
-            "stars": 607
+            "stars": 607,
+            "topics": [
+              "props",
+              "react",
+              "render"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -138,12 +210,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏠 A tiny React state management library using hooks.",
+            "homepage": "https://dakpan.houf.io/",
             "id": 136435784,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-06-06T08:01:09Z",
+            "open_issues": 0,
             "owner": "houfio",
             "repo": "dakpan",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -154,12 +234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decorator for new React Context API",
+            "homepage": null,
             "id": 123118625,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-28T10:54:37Z",
+            "open_issues": 3,
             "owner": "SunHuawei",
             "repo": "with-context",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -170,12 +255,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple tool to map context from React 16.3's new Context API to a component's props.",
+            "homepage": "https://codesandbox.io/s/p9rv0rp59m",
             "id": 122506757,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-01-11T23:45:04Z",
+            "open_issues": 1,
             "owner": "contiamo",
             "repo": "react-connect-context",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "react",
+              "react-context"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -186,12 +279,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React render props component for setting translations",
+            "homepage": null,
             "id": 122117669,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-14T16:39:26Z",
+            "open_issues": 0,
             "owner": "hyogman",
             "repo": "react-translations-provider",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "frontend",
+              "props",
+              "react",
+              "render",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -202,12 +306,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "combine react providers in ease",
+            "homepage": null,
             "id": 189013478,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T05:51:47Z",
+            "open_issues": 27,
             "owner": "hlhr202",
             "repo": "React-Combine-Provider",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "constate",
+              "hooks",
+              "react",
+              "react-context",
+              "react-hooks",
+              "react-state",
+              "redux",
+              "unstated"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -218,12 +336,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The React Component, which allows you to combine contexts and incapsulate to components using HOC, is built on a top of Context API",
+            "homepage": "https://xnimorz.github.io/react-providers/",
             "id": 143775152,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T07:04:25Z",
+            "open_issues": 37,
             "owner": "xnimorz",
             "repo": "react-providers",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "context",
+              "context-provider",
+              "react",
+              "react-context",
+              "react-context-api",
+              "reactjs",
+              "state-management",
+              "state-manager"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -234,12 +366,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NOT MAINTAINED] Simple global state for React with Context API",
+            "homepage": "https://www.npmjs.com/package/react-context-global-state",
             "id": 151574655,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T21:38:23Z",
+            "open_issues": 17,
             "owner": "dai-shi",
             "repo": "react-context-global-state",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "context-api-react",
+              "react",
+              "state-management",
+              "stateless-components",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -250,12 +393,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Zap props from one React component to another, using React new context API and your existing higher-order components :zap:",
+            "homepage": null,
             "id": 135201377,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-07-03T11:29:49Z",
+            "open_issues": 0,
             "owner": "troch",
             "repo": "react-zap",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "context",
+              "higher-order-component",
+              "javascript",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -266,12 +419,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Another React state management library using the new Context API",
+            "homepage": null,
             "id": 128090583,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-07T11:12:27Z",
+            "open_issues": 17,
             "owner": "colevoss",
             "repo": "react-motive",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "react",
+              "react-context",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -282,12 +444,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ATTENTION! This is the old repository. The Zedux React package has moved to https://github.com/omnistac/zedux/tree/master/packages/react",
+            "homepage": null,
             "id": 118282874,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-13T23:22:42Z",
+            "open_issues": 0,
             "owner": "bowheart",
             "repo": "react-zedux",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "fractal",
+              "hoc",
+              "observable",
+              "react",
+              "redux",
+              "render-props",
+              "store-hierarchy",
+              "time-travel",
+              "zedux"
+            ]
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -298,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "React - Get and set local and session storage easily using the Context API",
+            "homepage": null,
             "id": 131729684,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-06-02T17:57:06Z",
+            "open_issues": 0,
             "owner": "giannif",
             "repo": "react-storage-context",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -314,12 +496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React HOC to the new Context API to keep the use as simple as React-Redux connect HOC.",
+            "homepage": null,
             "id": 137672712,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-10T02:55:53Z",
+            "open_issues": 0,
             "owner": "BrOrlandi",
             "repo": "react-context-connector",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -330,12 +517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronously load object into the context",
+            "homepage": "https://crubier.github.io/react-loadable-context/",
             "id": 134152432,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-06-23T01:44:57Z",
+            "open_issues": 0,
             "owner": "crubier",
             "repo": "react-loadable-context",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         },
@@ -346,12 +538,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Legacy project.  Move out to  =>",
+            "homepage": "https://github.com/jalal246/folo",
             "id": 161352666,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-19T19:04:58Z",
+            "open_issues": 0,
             "owner": "jalal246",
             "repo": "folio",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
         }
@@ -360,15 +557,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:16:46.185Z",
+    "last_updated": "2026-08-29T04:35:15.337Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of stuff related to the new React Context API",
+      "homepage": null,
       "id": 122140699,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2023-01-23T08:58:40Z",
+      "open_issues": 2,
       "owner": "diegohaz",
       "repo": "awesome-react-context",
-      "stars": 932
+      "stars": 932,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "codesandbox",
+        "react",
+        "react-context",
+        "state-management"
+      ]
     },
     "original_repository_sha": "679fda05905f779a1815a179cdfe70f695fce896",
     "enhanced_repository": "enhansome/enhansome-react-context",

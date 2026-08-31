@@ -64,7 +64,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T12:31:02Z",
+            "last_commit": "2026-08-31T18:43:47Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:38:54.011Z",
+    "last_updated": "2026-08-31T19:07:28.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",
@@ -569,7 +569,7 @@
       "open_issues": 2,
       "owner": "diegohaz",
       "repo": "awesome-react-context",
-      "stars": 932,
+      "stars": 930,
       "topics": [
         "awesome",
         "awesome-list",

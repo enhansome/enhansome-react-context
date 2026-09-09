@@ -43,7 +43,7 @@
             "open_issues": 17,
             "owner": "jamiebuilds",
             "repo": "unstated",
-            "stars": 7719,
+            "stars": 7717,
             "topics": [
               "management",
               "react",
@@ -126,7 +126,7 @@
             "open_issues": 3,
             "owner": "ReactTraining",
             "repo": "react-broadcast",
-            "stars": 1314,
+            "stars": 1313,
             "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:36:01.116Z",
+    "last_updated": "2026-09-09T16:35:56.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",

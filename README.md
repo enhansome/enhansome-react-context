@@ -34,10 +34,10 @@
 ## Libraries
 
 * [**react-redux**](https://github.com/reduxjs/react-redux) ⭐ 23,438 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-06 - A Context based library for integrating React with Redux.
-* [**unstated**](https://github.com/jamiebuilds/unstated) ⭐ 7,719 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11 - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
+* [**unstated**](https://github.com/jamiebuilds/unstated) ⭐ 7,717 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11 - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
 * [**constate**](https://github.com/diegohaz/constate) ⭐ 4,005 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-08 - React Context + State = constate.
 * [**react-waterfall**](https://github.com/didierfranc/react-waterfall) ⭐ 1,318 | 🐛 57 | 🌐 JavaScript | 📅 2023-11-24 - React store built on top of the new context API.
-* [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) ⭐ 1,314 | 🐛 3 | 🌐 JavaScript | 📅 2022-11-20 - Reliably communicate state changes to deeply nested React elements.
+* [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) ⭐ 1,313 | 🐛 3 | 🌐 JavaScript | 📅 2022-11-20 - Reliably communicate state changes to deeply nested React elements.
 * [**react-create-context**](https://github.com/jamiebuilds/create-react-context) ⭐ 686 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-07 - Polyfill for the proposed React context API.
 * [**react-contextual**](https://github.com/drcmda/react-contextual) ⭐ 638 | 🐛 13 | 🌐 JavaScript | 📅 2018-09-12 - Tiny helper around React's new context API.
 * [**react-composer**](https://github.com/jamesplease/react-composer) ⭐ 607 | 🐛 3 | 🌐 JavaScript | 📅 2022-04-28 - Prevents deeply nested code when consuming multiple contexts at the same time.
@@ -69,4 +69,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

@@ -11,15 +11,15 @@
           "repo_info": {
             "archived": false,
             "description": "Official React bindings for Redux",
-            "homepage": "https://react-redux.js.org",
+            "homepage": "https://redux.js.org/react-redux",
             "id": 38934449,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T19:45:13Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-28T13:33:10Z",
+            "open_issues": 38,
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23427,
+            "stars": 23428,
             "topics": [
               "react",
               "redux"
@@ -64,7 +64,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T14:04:05Z",
+            "last_commit": "2026-09-28T18:59:18Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T16:56:10.954Z",
+    "last_updated": "2026-09-28T19:39:25.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",

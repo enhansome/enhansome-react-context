@@ -43,7 +43,7 @@
             "open_issues": 17,
             "owner": "jamiebuilds",
             "repo": "unstated",
-            "stars": 7712,
+            "stars": 7711,
             "topics": [
               "management",
               "react",
@@ -64,11 +64,11 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T19:29:26Z",
+            "last_commit": "2026-10-01T18:15:54Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4006,
+            "stars": 4007,
             "topics": [
               "constate",
               "hooks",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T17:59:02.361Z",
+    "last_updated": "2026-10-01T18:24:22.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",

@@ -64,7 +64,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T18:15:54Z",
+            "last_commit": "2026-10-03T12:40:49Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -147,7 +147,7 @@
             "open_issues": 9,
             "owner": "jamiebuilds",
             "repo": "create-react-context",
-            "stars": 686,
+            "stars": 685,
             "topics": [
               "context",
               "contexttypes",
@@ -428,7 +428,7 @@
             "open_issues": 17,
             "owner": "colevoss",
             "repo": "react-motive",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "react",
               "react-context",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:32.999Z",
+    "last_updated": "2026-10-03T16:14:58.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",

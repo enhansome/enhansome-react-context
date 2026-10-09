@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23423,
+            "stars": 23421,
             "topics": [
               "react",
               "redux"
@@ -43,7 +43,7 @@
             "open_issues": 17,
             "owner": "jamiebuilds",
             "repo": "unstated",
-            "stars": 7709,
+            "stars": 7708,
             "topics": [
               "management",
               "react",
@@ -64,8 +64,8 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T16:46:36Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-09T06:50:10Z",
+            "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4006,
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:49:38.664Z",
+    "last_updated": "2026-10-09T18:20:05.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",
@@ -569,7 +569,7 @@
       "open_issues": 2,
       "owner": "diegohaz",
       "repo": "awesome-react-context",
-      "stars": 931,
+      "stars": 930,
       "topics": [
         "awesome",
         "awesome-list",

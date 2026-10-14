@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23419,
+            "stars": 23421,
             "topics": [
               "react",
               "redux"
@@ -43,7 +43,7 @@
             "open_issues": 17,
             "owner": "jamiebuilds",
             "repo": "unstated",
-            "stars": 7709,
+            "stars": 7710,
             "topics": [
               "management",
               "react",
@@ -99,7 +99,7 @@
             "open_issues": 57,
             "owner": "didierfranc",
             "repo": "react-waterfall",
-            "stars": 1318,
+            "stars": 1317,
             "topics": [
               "context",
               "flux",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:14:02.567Z",
+    "last_updated": "2026-10-14T17:06:54.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",

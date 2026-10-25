@@ -33,8 +33,8 @@
 
 ## Libraries
 
-* [**react-redux**](https://github.com/reduxjs/react-redux) ⭐ 23,423 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-21 - A Context based library for integrating React with Redux.
-* [**unstated**](https://github.com/jamiebuilds/unstated) ⭐ 7,710 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11 - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
+* [**react-redux**](https://github.com/reduxjs/react-redux) ⭐ 23,424 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-21 - A Context based library for integrating React with Redux.
+* [**unstated**](https://github.com/jamiebuilds/unstated) ⭐ 7,711 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11 - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
 * [**constate**](https://github.com/diegohaz/constate) ⭐ 4,007 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-24 - React Context + State = constate.
 * [**react-waterfall**](https://github.com/didierfranc/react-waterfall) ⭐ 1,317 | 🐛 57 | 🌐 JavaScript | 📅 2023-11-24 - React store built on top of the new context API.
 * [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) ⭐ 1,314 | 🐛 3 | 🌐 JavaScript | 📅 2022-11-20 - Reliably communicate state changes to deeply nested React elements.
@@ -69,4 +69,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

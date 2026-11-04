@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23427,
+            "stars": 23428,
             "topics": [
               "react",
               "redux"
@@ -68,7 +68,7 @@
             "open_issues": 7,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4006,
+            "stars": 4007,
             "topics": [
               "constate",
               "hooks",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:28:14.931Z",
+    "last_updated": "2026-11-04T19:42:50.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",

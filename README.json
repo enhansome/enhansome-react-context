@@ -64,11 +64,11 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T17:00:43Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-06T20:02:03Z",
+            "open_issues": 7,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4007,
+            "stars": 4006,
             "topics": [
               "constate",
               "hooks",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:20:35.771Z",
+    "last_updated": "2026-11-07T17:43:52.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",

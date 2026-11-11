@@ -43,7 +43,7 @@
             "open_issues": 17,
             "owner": "jamiebuilds",
             "repo": "unstated",
-            "stars": 7710,
+            "stars": 7709,
             "topics": [
               "management",
               "react",
@@ -99,7 +99,7 @@
             "open_issues": 57,
             "owner": "didierfranc",
             "repo": "react-waterfall",
-            "stars": 1317,
+            "stars": 1316,
             "topics": [
               "context",
               "flux",
@@ -126,7 +126,7 @@
             "open_issues": 3,
             "owner": "ReactTraining",
             "repo": "react-broadcast",
-            "stars": 1313,
+            "stars": 1311,
             "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
@@ -173,7 +173,7 @@
             "open_issues": 13,
             "owner": "drcmda",
             "repo": "react-contextual",
-            "stars": 638,
+            "stars": 637,
             "topics": []
           },
           "first_seen": "2026-08-28T22:16:46.185Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T19:41:09.137Z",
+    "last_updated": "2026-11-11T19:33:11.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",
@@ -569,7 +569,7 @@
       "open_issues": 2,
       "owner": "diegohaz",
       "repo": "awesome-react-context",
-      "stars": 933,
+      "stars": 932,
       "topics": [
         "awesome",
         "awesome-list",

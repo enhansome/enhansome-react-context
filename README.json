@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-28T01:00:17Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "reduxjs",
             "repo": "react-redux",
             "stars": 23426,
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:33:11.420Z",
+    "last_updated": "2026-11-12T19:51:59.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of stuff related to the new React Context API",

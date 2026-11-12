@@ -33,7 +33,7 @@
 
 ## Libraries
 
-* [**react-redux**](https://github.com/reduxjs/react-redux) ⭐ 23,426 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-28 - A Context based library for integrating React with Redux.
+* [**react-redux**](https://github.com/reduxjs/react-redux) ⭐ 23,426 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-28 - A Context based library for integrating React with Redux.
 * [**unstated**](https://github.com/jamiebuilds/unstated) ⭐ 7,709 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11 - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
 * [**constate**](https://github.com/diegohaz/constate) ⭐ 4,006 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-09 - React Context + State = constate.
 * [**react-waterfall**](https://github.com/didierfranc/react-waterfall) ⭐ 1,316 | 🐛 57 | 🌐 JavaScript | 📅 2023-11-24 - React store built on top of the new context API.
@@ -69,4 +69,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
